@@ -1,4 +1,4 @@
-### Hi there 👋
+Аккаунт для сдачи домашних работ по курсу "Python developer" онлайн-университета Skypro, поток 16.
 
 <!--
 **va0r/va0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
